@@ -1,0 +1,13 @@
+<CommandsInputs>
+	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\kcvc_covington-muni\PackageDefinitions\tabletopandroid-airport-kcvc-covington\ContentInfo\Thumbnail.jpg" Failure="0">
+		<Package Name="tabletopandroid-airport-kcvc-covington" Failure="0">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\kcvc_covington-muni\PackageSources\Scenery\airport-kcvc-covington\scenery\KCVC.xml" Failure="0">
+		<Package Name="tabletopandroid-airport-kcvc-covington" Failure="0">
+			<AssetGroup Name="scenery"/>
+		</Package>
+	</File>
+</CommandsInputs>
+

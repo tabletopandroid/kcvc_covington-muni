@@ -16,8 +16,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\tabletopandroid-airport-kcvc-covington\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\tabletopandroid-airport-kcvc-covington</OutputDir>
+			<AssetDir>PackageDefinitions\tabletopandroid-airport-kcvc-covington\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\tabletopandroid-airport-kcvc-covington\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="scenery">
 			<Type>BGL</Type>
